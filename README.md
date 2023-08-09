@@ -1,4 +1,6 @@
-# M5 - Pet Kare
+# Introdução
+Você é consultor em uma empresa especializada em sistemas para petshops. Uma franquia chamada PetKare trabalha com processos manuais, possui papéis espalhados por toda a recepção, além de ter informações desorganizadas sobre os bichinhos de seus clientes. Dessa forma, o petshop solicitou sua ajuda para implantar uma API que permitisse ao PetKare ter um maior controle e organização dos dados dos animais de sua gama de clientes.
+
 
 ## Como rodar os testes localmente
 
